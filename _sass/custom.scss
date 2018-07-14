@@ -1,0 +1,98 @@
+*{
+	font-family: "STKaiti";
+}
+
+.intro-title{
+	border: 1px solid; 
+	width:100px; 
+	text-align:center; 
+	height: 30px;
+	padding: 0 5px 0 5px;
+	line-height: 30px;
+	font-weight: bold;
+	&.purple{
+		border-color: purple;
+	}
+	&.orange{
+		border-color: rgb(231, 170, 68);
+	}
+	&.blue{
+		border-color: rgb(23, 159, 188);
+	}
+}
+
+
+.intro-block{
+	position: relative;
+	padding-right: 10px;
+	li{
+		text-align: justify;
+	}
+	.intro-line{
+		position: absolute;
+		&.upper-left{
+			top: 15px;
+			left: 112px;
+			width: 100px;
+			height: 1px;
+		}
+		&.upper-right{
+			top: 32px;
+			left: 5px;
+			width: 1px;
+			height: 50px;
+		}
+		&.bottom-left{
+			bottom: 0px;
+			right: 0px;
+			width: 100px;
+			height: 1px;
+		}
+		&.bottom-right{
+			bottom: 0px;
+			right: 0px;
+			width: 1px;
+			height: 50px;
+		}
+		&.purple{
+			background-color: purple;
+		}
+		&.orange{
+			background-color: rgb(231, 170, 68);
+		}
+		&.blue{
+			background-color: rgb(23, 159, 188);
+		}
+	}
+	.intro-line-connect{
+		position: absolute;
+		width: 11px;
+		height: 11px;
+		bottom: -5px;
+		right: -5px;
+		&.purple{
+			background-color: purple;
+		}
+		&.orange{
+			background-color: rgb(231, 170, 68);
+		}
+		&.blue{
+			background-color: rgb(23, 159, 188);
+		}
+	}
+}
+
+
+//on smartphone
+@media screen and (min-width:560px) {
+	.intro-photo{
+		float:left;
+	}
+}
+@media screen and (max-width:559px) {
+	.intro-photo{
+		position: relative;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+}
