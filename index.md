@@ -22,9 +22,9 @@ Now I am pursing double master degrees in Shanghai JiaoTong University (Computer
 <div class="intro-line bottom-left purple"></div>
 <div class="intro-line bottom-right purple"></div>
 <ul>
-	<li> 2013.9 - 2017.6, Bachelor in Computer Science(IEEE Honored Class), School of Electronic Information and Electrical Engineering, Shanghai JiaoTong University</li>
+	<li> 2013.9 - 2017.7, Bachelor in Computer Science(IEEE Honored Class), School of Electronic Information and Electrical Engineering, Shanghai JiaoTong University</li>
 	<li> 2016.9 - 2018.7, Master in Information(Machine Learning), Furuzuki Lab, Graduate School of Information, Production and Systems, Waseda University</li>
-	<li> 2018.9 - 2020.3(Expected), Master in Computer Technology(Knowledge Extraction and Representation), CyberSpace Intelligence Computing Lab, School of Electronic Information and Electrical Engineering, Shanghai JiaoTong University</li>
+	<li> 2017.9 - 2020.3(Expected), Master in Computer Technology(Knowledge Extraction and Representation), CyberSpace Intelligence Computing Lab, School of Electronic Information and Electrical Engineering, Shanghai JiaoTong University</li>
 </ul>
 </div>
 
