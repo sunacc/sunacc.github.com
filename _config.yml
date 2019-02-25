@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 孙一平(SUN Yiping)
-email: sunacc2015@gmail.com
+email: sunacc@sjtu.edu.cn, sunacc@suou.waseda.jp
 description: >- # this means to ignore newlines until "baseurl:"
   May the force be with you.
 baseurl: "" # the subpath of your site, e.g. /blog
